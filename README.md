@@ -1,6 +1,6 @@
 ## Hello Fellow Geeks 👋
 
-- 👩🏻 I'm Meri
+- 👩🏻 My name is Meri
 - 👩🏻‍💻 A Self-taught Full Stack Developer
 - ✨ I’m currently working on Booking site and my 3D portfolio
 - 💻 I'm proficient in : Javascript, Typescript, HTML, CSS and Python
