@@ -2,8 +2,8 @@
 
 - 👩🏻‍💻 A Self-taught Full Stack Developer
 - ✨ I’m currently working on Booking site
-- 💻 I'm proficient in : Javascript, Typescript, HTML, CSS, Python,
-- 🌱 I’m also learning Machine Learning and Data science
+- 💻 I'm proficient in : Javascript, Typescript, HTML, CSS and Python
+- 🌱 I’m also learning Data science and Machine Learning 
 - 👯 I’m looking to collaborate on Open Source Initiatives
 
 
