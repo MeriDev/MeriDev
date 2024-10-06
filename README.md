@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Fellow Geeks 👋
 
 - 👩🏻‍💻 A Self-taught Full Stack Developer
 - ✨ I’m currently working on Booking site
