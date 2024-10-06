@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 👩🏻‍💻 A Self-taught Full Stack Developer
+- ✨ I’m currently working on Booking site
+- 💻 I'm proficient in : Javascript, Typescript, HTML, CSS, Python,
+- 🌱 I’m also learning Machine Learning and Data science
+- 👯 I’m looking to collaborate on Open Source Initiatives
+
+
 <!--
 **MeriDev/MeriDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
