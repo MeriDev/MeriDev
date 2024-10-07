@@ -13,6 +13,7 @@
 
 ### Frameworks I use:
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff)![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white)
 
 
 ### Tools I use
