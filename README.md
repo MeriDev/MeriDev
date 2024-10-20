@@ -17,7 +17,8 @@
 
 
 ### Tools I use
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)![Hyper](https://img.shields.io/badge/Hyper-000000?logo=hyper&logoColor=fff)![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)![Hyper](https://img.shields.io/badge/Hyper-000000?logo=hyper&logoColor=fff)
+![Vite](https://img.shields.io/badge/-Vite-646CFF??style=flat&logo=vite&logoColor=fff)!
 ![Netlify](https://img.shields.io/badge/-Netlify-%23000000?style=flat&logo=netlify&logoColor=#00C7B7)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
