@@ -2,7 +2,7 @@
 
 - 👩🏻 My name is Meri
 - 👩🏻‍💻 I’m A Self-taught Full Stack Developer
-- ✨ currently working on Booking site and my 3D portfolio
+- ✨ Currently working on Booking site and my 3D portfolio
 - 💻 I'm proficient in : Javascript, Typescript, HTML, CSS and Python
 - 🌱 also learning Data science and Machine Learning 
 - 👯 I’m looking to collaborate on Open Source Initiatives
