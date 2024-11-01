@@ -6,7 +6,7 @@
 - 💻 I'm proficient in : Javascript, Typescript, HTML, CSS and Python
 - 🌱 also learning Data science and Machine Learning 
 - 👯 I’m looking to collaborate on Open Source Initiatives
-- 💪🏻 Currently Taking on the Hacktober Chanllenge
+- 💪🏻 Currently Taking on 100 days of code challenge
 
 ### Languages I use:
 ![HTML](https://img.shields.io/badge/-HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
