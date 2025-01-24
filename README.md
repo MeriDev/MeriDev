@@ -4,9 +4,8 @@
 - 👩🏻‍💻 I’m A Self-taught Full Stack Developer
 - ✨ Currently working on Booking site and my 3D portfolio
 - 💻 I'm proficient in : Javascript, React, Typescript, HTML and CSS
-- 🌱 also learning Data science and Machine Learning 
 - 👯 I’m looking to collaborate on Open Source Initiatives
-- 💪🏻 Currently Taking on 100 days of code challenge
+- 🌱 also learning Data science and Machine Learning 
 
 ### Languages I use:
 ![HTML](https://img.shields.io/badge/-HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
