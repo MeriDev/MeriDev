@@ -1,8 +1,8 @@
 ## Hello Fellow Geeks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 - 👩🏻 My name is Meri
-- 👩🏻‍💻 I’m A Self-taught Full Stack Developer
-- ✨ Currently working on Booking site and my 3D portfolio
+- 👩🏻‍💻 I’m A Self-taught Front-end Developer
+- ✨ Now working on my 3D portfolio
 - 💻 I'm proficient in : Javascript, React, Typescript, HTML and CSS
 - 👯 I’m looking to collaborate on Open Source Initiatives
 - 🌱 Currently learning Data science and Machine Learning 
