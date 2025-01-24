@@ -5,7 +5,7 @@
 - ✨ Currently working on Booking site and my 3D portfolio
 - 💻 I'm proficient in : Javascript, React, Typescript, HTML and CSS
 - 👯 I’m looking to collaborate on Open Source Initiatives
-- 🌱 also learning Data science and Machine Learning 
+- 🌱 Currently learning Data science and Machine Learning 
 
 ### Languages I use:
 ![HTML](https://img.shields.io/badge/-HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
