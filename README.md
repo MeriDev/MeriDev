@@ -3,9 +3,9 @@
 - 👩🏻 My name is Meri
 - 👩🏻‍💻 I’m A Self-taught Front-end Developer
 - ✨ Now working on my 3D portfolio
-- 💻 I'm proficient in : Javascript, React, Typescript, HTML and CSS
+- 💻 I'm proficient in : Javascript, React, Typescript and CSS
 - 👯 I’m looking to collaborate on Open Source Initiatives
-- 🌱 Currently learning Data science and Machine Learning 
+- 🌱 Currently learning 3D animation
 
 ### Languages I use:
 ![HTML](https://img.shields.io/badge/-HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
