@@ -3,7 +3,7 @@
 - 👩🏻 My name is Meri
 - 👩🏻‍💻 I’m A Self-taught Front-end Developer
 - ✨ Now working on my 3D portfolio
-- 💻 I'm proficient in : Javascript, React, Typescript and CSS
+- 💻 I'm proficient in : Javascript, React and Typescript
 - 👯 I’m looking to collaborate on Open Source Initiatives
 - 🌱 Currently learning 3D animation
 
