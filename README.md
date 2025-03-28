@@ -47,5 +47,5 @@
 [![Framer](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff)](#)
 
 ### My Stats
-![MeriDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=onedark)
+![MeriDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight)
 
