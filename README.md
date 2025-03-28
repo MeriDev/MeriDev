@@ -3,12 +3,14 @@
 <table>
   <tr>
     <td style="vertical-align: top; width: 50%; padding-right: 10px; border:none;">
-       <span style="display:block;margin:0;padding:0;">- 👩🏻 My name is Meri</p>
-       <span style="display:block;margin:0;padding:0;">- 👩🏻‍💻 I’m A Self-taught Front-end Developer</p>
-       <span style="display:block;margin:0;padding:0;">- ✨ Now working on my 3D portfolio</p>
-       <span style="display:block;margin:0;padding:0;">- 💻 I'm proficient in : Javascript, React and Typescript</p>
-       <span style="display:block;margin:0;padding:0;">- 👯 I’m looking to collaborate on Open Source Initiatives</p>
-       <span style="display:block;margin:0;padding:0;">- 🌱 Currently learning 3D animation</p>
+    <ul>
+       <li style="display:block;margin:0;padding:0;">- 👩🏻 My name is Meri</li>
+       <li style="display:block;margin:0;padding:0;">- 👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
+       <li style="display:block;margin:0;padding:0;">- ✨ Now working on my 3D portfolio</li>
+       <li style="display:block;margin:0;padding:0;">- 💻 I'm proficient in : Javascript, React and Typescript</li>
+       <li style="display:block;margin:0;padding:0;">- 👯 I’m looking to collaborate on Open Source Initiatives</li>
+       <li style="display:block;margin:0;padding:0;">- 🌱 Currently learning 3D animation</li>
+    </ul>
     </td>
     <td style="vertical-align: top; width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320"/>
