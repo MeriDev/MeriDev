@@ -1,15 +1,32 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
+        }
+      </style>
+
+      <div class="container">
+        <h1>Hi there, my name is Nikola 👋</h1>
+      </div>
+    </div>
 
 ## Hello Fellow Geeks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <table style="border: none; width: 100%;">
   <tr>
     <td style="vertical-align: top; width:51%;">
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-       <li style="margin-bottom: 10px; text-indent: -1em; padding-left: 1em;">&#8211;👩🏻 My name is Meri</li>
-       <li style="list-style-type: none;"> 👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
-       <li style="list-style-type: none;"> ✨ Now working on my 3D portfolio</li>
-       <li style="list-style-type: none;"> 💻 I'm proficient in : Javascript, React and Typescript</li>
-       <li style="list-style-type: none;"> 👯 I’m looking to collaborate on Open Source Initiatives</li>
-       <li style="list-style-type: none;"> 🌱 Currently learning 3D animation</li>
+       <li>👩🏻 My name is Meri</li>
+       <li>👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
+       <li>✨ Now working on my 3D portfolio</li>
+       <li> 💻 I'm proficient in : Javascript, React and Typescript</li>
+       <li> 👯 I’m looking to collaborate on Open Source Initiatives</li>
+       <li> 🌱 Currently learning 3D animation</li>
     </ul>
     </td>
     <td style="vertical-align: top; width: 49%;">
@@ -17,6 +34,9 @@
     </td>
   </tr>
 </table>
+  </foreignObject>
+</svg>
+
 
 ### Languages I use:
 ![HTML](https://img.shields.io/badge/-HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
