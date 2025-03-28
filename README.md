@@ -3,8 +3,8 @@
 <table style="border: none; width: 100%;">
   <tr>
     <td style="vertical-align: top; width:51%;">
-    <ul>
-       <li style="list-style-type: none;"> 👩🏻 My name is Meri</li>
+    <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+       <li style="margin-bottom: 10px; text-indent: -1em; padding-left: 1em;">&#8211;👩🏻 My name is Meri</li>
        <li style="list-style-type: none;"> 👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
        <li style="list-style-type: none;"> ✨ Now working on my 3D portfolio</li>
        <li style="list-style-type: none;"> 💻 I'm proficient in : Javascript, React and Typescript</li>
