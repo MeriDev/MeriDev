@@ -1,5 +1,4 @@
 ## Hello Fellow Geeks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
 👩🏻 My name is Meri
 👩🏻‍💻 I’m A Self-taught Front-end Developer
 ✨ Now working on my 3D portfolio
