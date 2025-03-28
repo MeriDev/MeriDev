@@ -7,6 +7,9 @@
 - 👯 I’m looking to collaborate on Open Source Initiatives
 - 🌱 Currently learning 3D animation
 
+### My Stats
+![MeriDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight)
+
 ### Languages I use:
 ![HTML](https://img.shields.io/badge/-HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=fff)
@@ -45,7 +48,3 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%23000000?style=flat&logo=netlify&logoColor=#00C7B7)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
 [![Framer](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff)](#)
-
-### My Stats
-![MeriDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight)
-
