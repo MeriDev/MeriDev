@@ -1,22 +1,14 @@
 ## Hello Fellow Geeks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
- 
-  <table>
-    <tr>
-      <td>
-      <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-         <li>👩🏻 My name is Meri</li>
-         <li>👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
-         <li>✨ Now working on my 3D portfolio</li>
-         <li> 💻 I'm proficient in : Javascript, React and Typescript</li>
-         <li> 👯 I’m looking to collaborate on Open Source Initiatives</li>
-         <li> 🌱 Currently learning 3D animation</li>
-      </ul>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=300"/>
-      </td>
-    </tr>
-  </table>
+
+   -👩🏻 My name is Meri</li>
+   - 👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
+   - ✨ Now working on my 3D portfolio</li>
+   - 💻 I'm proficient in : Javascript, React and Typescript</li>
+   - 👯 I’m looking to collaborate on Open Source Initiatives</li>
+   - 🌱 Currently learning 3D animation</li>
+
+### My Stats:
+![MeriDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeriDev&show_icons=true&theme=tokyonight)
 
 ### Languages I use:
 ![HTML](https://img.shields.io/badge/-HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
