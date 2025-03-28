@@ -1,12 +1,12 @@
 ## Hello Fellow Geeks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <div style={display:flex}>
   <ul style={display:block}>
-  - 👩🏻 My name is Meri
-  - 👩🏻‍💻 I’m A Self-taught Front-end Developer
-  - ✨ Now working on my 3D portfolio
-  - 💻 I'm proficient in : Javascript, React and Typescript
-  - 👯 I’m looking to collaborate on Open Source Initiatives
-  - 🌱 Currently learning 3D animation
+   <li> - 👩🏻 My name is Meri</li>
+   <li> - 👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
+   <li> - ✨ Now working on my 3D portfolio</li>
+   <li> - 💻 I'm proficient in : Javascript, React and Typescript</li>
+   <li> - 👯 I’m looking to collaborate on Open Source Initiatives</li>
+   <li> - 🌱 Currently learning 3D animation</li>
   <ul/>
   ### My Stats
  <a style={width:"50%"} > ![MeriDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight)</span>
