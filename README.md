@@ -12,7 +12,7 @@
           color: white;
         }
       </style>
-        <table style="border: none; width: 100%;">
+        <table class="container" style="border: none; width: 100%;">
         <tr>
           <td style="vertical-align: top; width:51%;">
           <ul style="list-style-type: none; padding-left: 0; margin: 0;">
