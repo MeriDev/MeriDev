@@ -28,7 +28,7 @@
 ![HTMX](https://img.shields.io/badge/-HTMX-36C?style=flat&logo=htmx&logoColor=fff)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff)
 
-<hr/>
+---
 
 ### Frameworks I use:
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -46,7 +46,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 
-<hr/>
+---
 
 ### Tools I use
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-0078d7.svg?style=flat&logo=vsc&logoColor=white)
