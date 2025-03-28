@@ -4,12 +4,12 @@
   <tr>
     <td style="vertical-align: top; width: 50%; padding-right: 10px; border:none;">
     <ul>
-       <li style="list-style-type: none;">- 👩🏻 My name is Meri</li>
-       <li style="list-style-type: none;">- 👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
-       <li style="list-style-type: none;">- ✨ Now working on my 3D portfolio</li>
-       <li style="list-style-type: none;">- 💻 I'm proficient in : Javascript, React and Typescript</li>
-       <li style="list-style-type: none;">- 👯 I’m looking to collaborate on Open Source Initiatives</li>
-       <li style="list-style-type: none;">- 🌱 Currently learning 3D animation</li>
+       <li style="list-style-type: none;"> 👩🏻 My name is Meri</li>
+       <li style="list-style-type: none;"> 👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
+       <li style="list-style-type: none;"> ✨ Now working on my 3D portfolio</li>
+       <li style="list-style-type: none;"> 💻 I'm proficient in : Javascript, React and Typescript</li>
+       <li style="list-style-type: none;"> 👯 I’m looking to collaborate on Open Source Initiatives</li>
+       <li style="list-style-type: none;"> 🌱 Currently learning 3D animation</li>
     </ul>
     </td>
     <td style="vertical-align: top; width: 50%;">
