@@ -8,8 +8,7 @@
    <li> - 👯 I’m looking to collaborate on Open Source Initiatives</li>
    <li> - 🌱 Currently learning 3D animation</li>
   <ul/>
-  ### My Stats
- <div style={width:"50%"} > ![MeriDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight)</div>
+ ![MeriDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320)
 </div>
 
 ### Languages I use:
