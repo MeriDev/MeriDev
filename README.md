@@ -1,8 +1,8 @@
 ## Hello Fellow Geeks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
  
-  <table style="border: none;">
+  <table>
     <tr>
-      <td style="vertical-align: top; width:52%;">
+      <td>
       <ul style="list-style-type: none; padding-left: 0; margin: 0;">
          <li>👩🏻 My name is Meri</li>
          <li>👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
@@ -12,7 +12,7 @@
          <li> 🌱 Currently learning 3D animation</li>
       </ul>
       </td>
-      <td style="vertical-align: top; width: 48%;">
+      <td>
         <img src="https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=300"/>
       </td>
     </tr>
