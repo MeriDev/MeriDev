@@ -1,7 +1,7 @@
 ## Hello Fellow Geeks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <div style="display:flex;">
-  <div style="flex: 1>
-    <ul style="list-style: none;padding: 0;">
+  <div style="flex: 1;>
+    <ul style="list-style-type: none; padding-left: 0; margin: 0;">
       <li>- 👩🏻 My name is Meri</li>
       <li>- 👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
       <li>- ✨ Now working on my 3D portfolio</li>
