@@ -46,3 +46,5 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
 [![Framer](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff)](#)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=radical)
+
