@@ -1,3 +1,5 @@
+## Hello Fellow Geeks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
@@ -10,30 +12,24 @@
           color: white;
         }
       </style>
-
-      <div class="container">
-        <h1>Hi there, my name is Nikola 👋</h1>
-      </div>
+        <table style="border: none; width: 100%;">
+        <tr>
+          <td style="vertical-align: top; width:51%;">
+          <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+             <li>👩🏻 My name is Meri</li>
+             <li>👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
+             <li>✨ Now working on my 3D portfolio</li>
+             <li> 💻 I'm proficient in : Javascript, React and Typescript</li>
+             <li> 👯 I’m looking to collaborate on Open Source Initiatives</li>
+             <li> 🌱 Currently learning 3D animation</li>
+          </ul>
+          </td>
+          <td style="vertical-align: top; width: 49%;">
+            <img src="https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320"/>
+          </td>
+        </tr>
+      </table>
     </div>
-
-## Hello Fellow Geeks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-<table style="border: none; width: 100%;">
-  <tr>
-    <td style="vertical-align: top; width:51%;">
-    <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-       <li>👩🏻 My name is Meri</li>
-       <li>👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
-       <li>✨ Now working on my 3D portfolio</li>
-       <li> 💻 I'm proficient in : Javascript, React and Typescript</li>
-       <li> 👯 I’m looking to collaborate on Open Source Initiatives</li>
-       <li> 🌱 Currently learning 3D animation</li>
-    </ul>
-    </td>
-    <td style="vertical-align: top; width: 49%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320"/>
-    </td>
-  </tr>
-</table>
   </foreignObject>
 </svg>
 
