@@ -2,12 +2,12 @@
 <table>
   <tr>
     <td style="vertical-align: top; width: 50%; padding-right: 10px; border:none;">
-       👩🏻 My name is Meri<
-       👩🏻‍💻 I’m A Self-taught Front-end Developer<
-       ✨ Now working on my 3D portfolio<
-       💻 I'm proficient in : Javascript, React and Typescript
-       👯 I’m looking to collaborate on Open Source Initiatives
-       🌱 Currently learning 3D animation
+       <p>👩🏻 My name is Meri</p>
+       <p>👩🏻‍💻 I’m A Self-taught Front-end Developer</p>
+       <p>✨ Now working on my 3D portfolio</p>
+       <p>💻 I'm proficient in : Javascript, React and Typescript</p>
+       <p>👯 I’m looking to collaborate on Open Source Initiatives</p>
+       <p>🌱 Currently learning 3D animation</p>
     </td>
     <td style="vertical-align: top; width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320"/>
