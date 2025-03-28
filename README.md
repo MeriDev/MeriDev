@@ -2,7 +2,7 @@
 ## Hello Fellow Geeks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <table>
   <tr>
-    <td style="vertical-align: top; width:51%; border:none;">
+    <td style="vertical-align: top; width:51%; border-color:transparent;">
     <ul>
        <li style="list-style-type: none;"> 👩🏻 My name is Meri</li>
        <li style="list-style-type: none;"> 👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
