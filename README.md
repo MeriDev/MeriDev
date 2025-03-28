@@ -1,39 +1,22 @@
 ## Hello Fellow Geeks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-          list-style-type: none;
-        }
-      </style>
-        <table class="container" style="border: none; width: 100%;">
-        <tr>
-          <td style="vertical-align: top; width:51%;">
-          <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-             <li>👩🏻 My name is Meri</li>
-             <li>👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
-             <li>✨ Now working on my 3D portfolio</li>
-             <li> 💻 I'm proficient in : Javascript, React and Typescript</li>
-             <li> 👯 I’m looking to collaborate on Open Source Initiatives</li>
-             <li> 🌱 Currently learning 3D animation</li>
-          </ul>
-          </td>
-          <td style="vertical-align: top; width: 49%;">
-            <img src="https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320"/>
-          </td>
-        </tr>
-      </table>
-    </div>
-  </foreignObject>
-</svg>
-
+ 
+  <table style="border: none; width: 100%;">
+    <tr>
+      <td style="vertical-align: top; width:51%;">
+      <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+         <li>👩🏻 My name is Meri</li>
+         <li>👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
+         <li>✨ Now working on my 3D portfolio</li>
+         <li> 💻 I'm proficient in : Javascript, React and Typescript</li>
+         <li> 👯 I’m looking to collaborate on Open Source Initiatives</li>
+         <li> 🌱 Currently learning 3D animation</li>
+      </ul>
+      </td>
+      <td style="vertical-align: top; width: 49%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320"/>
+      </td>
+    </tr>
+  </table>
 
 ### Languages I use:
 ![HTML](https://img.shields.io/badge/-HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -45,7 +28,7 @@
 ![HTMX](https://img.shields.io/badge/-HTMX-36C?style=flat&logo=htmx&logoColor=fff)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff)
 
---
+<hr/>
 
 ### Frameworks I use:
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -63,7 +46,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 
---
+<hr/>
 
 ### Tools I use
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-0078d7.svg?style=flat&logo=vsc&logoColor=white)
