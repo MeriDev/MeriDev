@@ -1,14 +1,19 @@
 ## Hello Fellow Geeks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 50%; padding-right: 10px;">
    - 👩🏻 My name is Meri
    - 👩🏻‍💻 I’m A Self-taught Front-end Developer
    - ✨ Now working on my 3D portfolio
    - 💻 I'm proficient in : Javascript, React and Typescript
    - 👯 I’m looking to collaborate on Open Source Initiatives
    - 🌱 Currently learning 3D animation
-
+    </td>
+    <td style="vertical-align: top; width: 50%;">
  ![MeriDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320)
-
+    </td>
+  </tr>
+</table>
 
 ### Languages I use:
 ![HTML](https://img.shields.io/badge/-HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
