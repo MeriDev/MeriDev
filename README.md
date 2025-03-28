@@ -1,6 +1,6 @@
 ## Hello Fellow Geeks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <div style={display:flex}>
-  <ul>
+  <ul style={display:block}>
   - 👩🏻 My name is Meri
   - 👩🏻‍💻 I’m A Self-taught Front-end Developer
   - ✨ Now working on my 3D portfolio
@@ -9,7 +9,7 @@
   - 🌱 Currently learning 3D animation
   <ul/>
   ### My Stats
- <span style={width:"50%"} > ![MeriDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight)</span>
+ <a style={width:"50%"} > ![MeriDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight)</span>
 </div>
 
 ### Languages I use:
