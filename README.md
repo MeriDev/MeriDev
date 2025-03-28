@@ -10,6 +10,7 @@
           height: 300px;
           background-color: black;
           color: white;
+          list-style-type: none;
         }
       </style>
         <table class="container" style="border: none; width: 100%;">
