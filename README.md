@@ -2,14 +2,12 @@
 <table>
   <tr>
     <td style="vertical-align: top; width: 50%; padding-right: 10px; border:none;">
-      <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-        <li>- 👩🏻 My name is Meri</li>
-        <li>- 👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
-        <li>- ✨ Now working on my 3D portfolio</li>
-        <li>- 💻 I'm proficient in : Javascript, React and Typescript</li>
-        <li>- 👯 I’m looking to collaborate on Open Source Initiatives</li>
-        <li>- 🌱 Currently learning 3D animation</li>
-      </ul>
+       👩🏻 My name is Meri<
+       👩🏻‍💻 I’m A Self-taught Front-end Developer<
+       ✨ Now working on my 3D portfolio<
+       💻 I'm proficient in : Javascript, React and Typescript
+       👯 I’m looking to collaborate on Open Source Initiatives
+       🌱 Currently learning 3D animation
     </td>
     <td style="vertical-align: top; width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320"/>
@@ -27,6 +25,8 @@
 ![HTMX](https://img.shields.io/badge/-HTMX-36C?style=flat&logo=htmx&logoColor=fff)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff)
 
+--
+
 ### Frameworks I use:
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Redux Toolkit](https://img.shields.io/badge/Redux-Toolkit-blue)
@@ -43,6 +43,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 
+--
 
 ### Tools I use
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-0078d7.svg?style=flat&logo=vsc&logoColor=white)
