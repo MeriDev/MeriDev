@@ -1,6 +1,6 @@
 ## Hello Fellow Geeks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-<div style="display:flex;">
-  <ul>
+<div style="display:flex; justify-content: space-between;">
+  <ul style="flex: 1; padding-right: 20px; list-style-type: none;">
     <li> 👩🏻 My name is Meri</li>
     <li> 👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
     <li> ✨ Now working on my 3D portfolio</li>
@@ -8,7 +8,9 @@
     <li> 👯 I’m looking to collaborate on Open Source Initiatives</li>
     <li> 🌱 Currently learning 3D animation</li>
   </ul>
-  <img src="https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320"/>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320"/>
+  </div>
 </div>
 
 ### Languages I use:
