@@ -1,16 +1,18 @@
 ## Hello Fellow Geeks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <table>
   <tr>
-    <td style="vertical-align: top; width: 45%;">
-   - 👩🏻 My name is Meri
-   - 👩🏻‍💻 I’m A Self-taught Front-end Developer
-   - ✨ Now working on my 3D portfolio
-   - 💻 I'm proficient in : Javascript, React and Typescript
-   - 👯 I’m looking to collaborate on Open Source Initiatives
-   - 🌱 Currently learning 3D animation
+    <td style="vertical-align: top; width: 45%">
+      <ul>
+  <li>- 👩🏻 My name is Meri</li>
+  <li> - 👩🏻‍💻 I’m A Self-taught Front-end Developer</li>
+  <li>- ✨ Now working on my 3D portfolio</li>
+  <li>- - 💻 I'm proficient in : Javascript, React and Typescript</li>
+  <li>- - 👯 I’m looking to collaborate on Open Source Initiatives</li>
+  <li>-  - 🌱 Currently learning 3D animation</li>
+      </ul>
     </td>
-    <td style="vertical-align: top; width:45%;">
- ![MeriDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320)
+    <td style="vertical-align: top; width:45%">
+<img src="https://github-readme-stats.vercel.app/api?username=meriDev&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320"/>
     </td>
   </tr>
 </table>
